@@ -1,6 +1,9 @@
 # Project files #
 ###################
 cache
+metrics
+mysql-db
+redis
 server
 homedir
 installdir
